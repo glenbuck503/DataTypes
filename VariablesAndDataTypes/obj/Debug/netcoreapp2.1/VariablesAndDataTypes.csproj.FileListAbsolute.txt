@@ -1,0 +1,11 @@
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.deps.json
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.dll
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp2.1\VariablesAndDataTypes.pdb
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.dll
+C:\Users\glenb\Documents\VS\Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp2.1\VariablesAndDataTypes.pdb
